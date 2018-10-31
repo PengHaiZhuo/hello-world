@@ -1,0 +1,16 @@
+apktool升级到2.3.3之后，出渠道子包， 发现游戏中声音播放不出来了降低到2.3.1之后 子包游戏中声音就正常了
+google和facebook只有打过的包才能登录拉起支付，直接烧录的app拉不起来
+http://docs.anysdk.com/integration/client-java/quick-integration/   anysdk文档
+http://dev.anysdk.com/index.html#/enterprise/info    any后台
+http://sdk.3333.cn:9527/web/dashboard    any企业版
+http://admin.3333.cn/main.do   综合管理后台
+http://sso.any8.com/cas/login?service=http://erp.any8.com/pbm/index.jsp   a8erp
+https://coding.net/u/AnySDK/p/samsung/git  coding
+
+反编译相关路径
+C:\Users\Administrator\Desktop\de_compilation\a8sdk\dex2jar-2.0\dex2jar-2.0
+d2j-dex2jar.bat  classes.dex的全路径   C:\Users\Administrator\Desktop\de_compilation\a8sdk\base\classes.dex
+
+广点通   造兵一样 前面   
+广告的  new一个   com.zbyx.ggml.hdft
+
