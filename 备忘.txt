@@ -1,16 +1,17 @@
-apktoolÉı¼¶µ½2.3.3Ö®ºó£¬³öÇşµÀ×Ó°ü£¬ ·¢ÏÖÓÎÏ·ÖĞÉùÒô²¥·Å²»³öÀ´ÁË½µµÍµ½2.3.1Ö®ºó ×Ó°üÓÎÏ·ÖĞÉùÒô¾ÍÕı³£ÁË
-googleºÍfacebookÖ»ÓĞ´ò¹ıµÄ°ü²ÅÄÜµÇÂ¼À­ÆğÖ§¸¶£¬Ö±½ÓÉÕÂ¼µÄappÀ­²»ÆğÀ´
-http://docs.anysdk.com/integration/client-java/quick-integration/   anysdkÎÄµµ
-http://dev.anysdk.com/index.html#/enterprise/info    anyºóÌ¨
-http://sdk.3333.cn:9527/web/dashboard    anyÆóÒµ°æ
-http://admin.3333.cn/main.do   ×ÛºÏ¹ÜÀíºóÌ¨
+apktoolå‡çº§åˆ°2.3.3ä¹‹åï¼Œå‡ºæ¸ é“å­åŒ…ï¼Œ å‘ç°æ¸¸æˆä¸­å£°éŸ³æ’­æ”¾ä¸å‡ºæ¥äº†é™ä½åˆ°2.3.1ä¹‹å å­åŒ…æ¸¸æˆä¸­å£°éŸ³å°±æ­£å¸¸äº†
+googleå’Œfacebookåªæœ‰æ‰“è¿‡çš„åŒ…æ‰èƒ½ç™»å½•æ‹‰èµ·æ”¯ä»˜ï¼Œç›´æ¥çƒ§å½•çš„appæ‹‰ä¸èµ·æ¥
+http://docs.anysdk.com/integration/client-java/quick-integration/   anysdkæ–‡æ¡£
+http://dev.anysdk.com/index.html#/enterprise/info    anyåå°
+http://sdk.3333.cn:9527/web/dashboard    anyä¼ä¸šç‰ˆ
+http://admin.3333.cn/main.do   ç»¼åˆç®¡ç†åå°
 http://sso.any8.com/cas/login?service=http://erp.any8.com/pbm/index.jsp   a8erp
 https://coding.net/u/AnySDK/p/samsung/git  coding
 
-·´±àÒëÏà¹ØÂ·¾¶
+åç¼–è¯‘ç›¸å…³è·¯å¾„
 C:\Users\Administrator\Desktop\de_compilation\a8sdk\dex2jar-2.0\dex2jar-2.0
-d2j-dex2jar.bat  classes.dexµÄÈ«Â·¾¶   C:\Users\Administrator\Desktop\de_compilation\a8sdk\base\classes.dex
+d2j-dex2jar.bat  classes.dexçš„å…¨è·¯å¾„   C:\Users\Administrator\Desktop\de_compilation\a8sdk\base\classes.dex
 
-¹ãµãÍ¨   Ôì±øÒ»Ñù Ç°Ãæ   
-¹ã¸æµÄ  newÒ»¸ö   com.zbyx.ggml.hdft
+å¹¿ç‚¹é€š   é€ å…µä¸€æ · å‰é¢   
+å¹¿å‘Šçš„  newä¸€ä¸ª   com.zbyx.ggml.hdft
 
+sdsdsdsdsds
